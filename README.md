@@ -52,10 +52,10 @@ Contribute to Open Source: GitHub is the platform for contributing to projects a
 # Missed the event? Check out the slides:
 
 Day 1 Slides 
-[Click Here](resources/ Git_Github_VCS and IDE Seteup.pdf)
+[Click Here](resources/Git_Github_VCSandIDESeteup.pdf)
 
 Day 2 Slides
-[Click Here](resources/Git_Github_VCS .pdf)
+[Click Here](resources/Git_Github_VCS.pdf)
 
 Link to the recorded event!
 [Click Here](https://youtu.be/rzyb08zh_Yg?si=fLpjlYJVIpp1H_6S)
